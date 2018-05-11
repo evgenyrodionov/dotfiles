@@ -1,6 +1,10 @@
 ## terminal & git
 
 ```sh
+# init
+cd ~
+git clone git@github.com:evgenyrodionov/dotfiles.git
+
 # z & zsh
 git clone git@github.com:rupa/z.git
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
