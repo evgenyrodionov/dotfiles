@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 
 . ~/z/z.sh
 
-source $HOME/.iterm2_shell_integration.zsh
+# source $HOME/.iterm2_shell_integration.zsh
 export TERM="xterm-256color"
 
 export PATH="$HOME/.yarn/bin:$PATH"
